@@ -1,4 +1,4 @@
-# Delete all Woocommerce orders
+# Delete all WooCommerce orders
 Delete all your Woocommerce orders with this script. Use at own risk
 
 ## I just want the SQL-queries
